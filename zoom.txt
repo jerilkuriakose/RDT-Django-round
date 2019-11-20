@@ -1,1 +1,1 @@
-3a174a7ab9f77960173bd9085edd137942d0dbb7
+https://api.upstox.com/index/dialog/authorize?apiKey=7tLpfOThgS7TyylICJukfaFq2XcBrx7L9TNCeIf0&redirect_uri=http%3A%2F%2Fupstox.com%3A3000&response_type=code
