@@ -1,1 +1,5 @@
-https://api.upstox.com/index/dialog/authorize?apiKey=7tLpfOThgS7TyylICJukfaFq2XcBrx7L9TNCeIf0&redirect_uri=http%3A%2F%2Fupstox.com%3A3000&response_type=code
+http://93.174.95.29/main/2419000/a12e87fa16b04763faab73a8a5dbe8a8/Clenow%2C%20Andreas%20%5BClenow%2C%20Andreas%5D%20-%20Trading%20Evolved_%20Anyone%20can%20Build%20Killer%20Trading%20Strategies%20in%20Python.%201-Perpendicular%20Publishing%20%282019%29.epub
+
+http://93.174.95.29/main/1638000/2f9fd8c208157b833314b7aa2150a8f4/Andreas%20F.%20Clenow%20-%20Stocks%20on%20the%20Move_%20Beating%20the%20Market%20with%20Hedge%20Fund%20Momentum%20Strategies-Andreas%20F.%20Clenow%20%282015%29.epub
+
+http://93.174.95.29/main/1147000/6ea1754f80c0ef6dd569688f522ac7d9/Andreas%20F.%20Clenow%20-%20Following%20the%20Trend_%20Diversified%20Managed%20Futures%20Trading-Wiley%20%282012%29.pdf
