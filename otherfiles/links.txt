@@ -1,3 +1,33 @@
 https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26255&siteid=5810&PageType=JobDetails&jobid=743482#jobDetails=743482_5810
 https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26255&siteid=5810&PageType=JobDetails&jobid=743482#jobDetails=734430_5810
 https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26255&siteid=5810&PageType=JobDetails&jobid=670088#jobDetails=670088_5810
+
+
+First Paragraph - Recommender Introduction - Recommender should provide his details including his
+designation, qualifications. Then he should write about the capacity in which has has associated with
+you. Describe the project - RCMBrain]
+In my observation, he has the capability to complete tasks assigned to him with minimum guidance,
+making him intellectually independent. He was instrumental in adding value to the information
+extraction pipeline for the Electronic health records. He attacks a difficult problem by breaking it into
+smaller problems and then try building different solutions for them. He worked on following problems
+with minimum guidance namely spelling correction, entity recognition using deep learning models like
+LSTM, Stanford NLP. He also made sure that code is scalable is well documented for future
+reference.
+He shows ingenuity in his approach to tackle problems. In the spelling correction problem, one clever
+solution he used was the soundex algorithm, in which he indexed the words using their phonetic
+sound and then search for their neighbouring strings. Alongside, he also worked on a deep learning
+based approach spelling corrector. Finally he clubbed the two approaches to build a robust spelling
+corrector. He has a rare skill to focus both on the granular details and bigger picture of the product.
+He demonstrates the required qualities of a team player and communicate lucidly and succinctly with
+other team members. He was proactive in his approach and would do a literature review, writing code
+considering different use cases and its code documentation. He is a strong proponent of data literacy
+and organising various knowledge sessions events open to people with different backgrounds. He
+quickly adapted to the cross-cultural work environment.
+On a personal note, he is a well rounded individual, besides solving problems he has great interest in
+music. He has also shown his adeptness at organizational skills, especially in a cross-cultural setting.
+He is approachable and easy to communicate with.
+I concur with his decision to pursue masters at J. MACK ROBINSON COLLEGE OF BUSINESS, GSU
+and strongly recommend him for admission at your university along with Teaching
+assistantship/Research assistantship with means of full financial aid.
+Best Regards,
+[Recommender Name,
