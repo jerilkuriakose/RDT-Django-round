@@ -33,3 +33,4 @@ def get_msvcr():
         else:
             # to do: can we make this futureproof?
             raise ValueError("Unknown MS Compiler version %s " % msc_ver)
+# https://drive.google.com/drive/u/0/folders/0B8mlk4xRW1kOVkk0M3FVR0M0aEE
