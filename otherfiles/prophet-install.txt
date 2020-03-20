@@ -1,0 +1,5 @@
+1. https://pystan.readthedocs.io/en/latest/windows.html
+2. conda install -c conda-forge fbprophet
+If the above two doesnt work
+https://stackoverflow.com/questions/48764602/cygwincompiler-typeerror-not-supported-between-instances-of-nonetype-and
+https://github.com/stan-dev/pystan/issues/306#issuecomment-329299966
